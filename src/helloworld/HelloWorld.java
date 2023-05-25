@@ -25,6 +25,9 @@ public class HelloWorld {
         System.out.print(revString[i]); // Iterate backwards over the array and print each character
         System.out.println("Neha");
         System.out.println("N");
+        int a ;
+        int b;
+        int c = a+b;
     }
 }
 }
